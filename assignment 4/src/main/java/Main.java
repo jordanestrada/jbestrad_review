@@ -1,14 +1,22 @@
+/*
+  File:	Main.java
+  Author:Jordan Estrada
+  Date:	10/31
+  
+*/
+/**
+  Class: Main
+  
+  Description:
+  Implements & runs the actual program.
+*/
+
 package main.java;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.NoSuchElementException;
 
-/**
- * main method for running the program.
- * @author amehlhas
- *
- */
 final class Main {
 	/**
 	 * All methods should have a Javadoc according to STYLE.

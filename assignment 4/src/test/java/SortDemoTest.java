@@ -1,3 +1,14 @@
+/*
+  File:	SortDemoTest.java
+  Author:Jordan Estrada
+  Date:	10/31
+  
+  Description:
+  Contains various Junit test cases used to identify failures & errors in program.
+  
+*/
+
+
 package test.java;
 
 import static org.junit.Assert.assertTrue;
